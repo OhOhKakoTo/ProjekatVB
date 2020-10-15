@@ -1,0 +1,89 @@
+C:\Users\Energiy\source\repos\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.vbprojAssemblyReference.cache
+C:\Users\Energiy\source\repos\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.Form1.resources
+C:\Users\Energiy\source\repos\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.Resources.resources
+C:\Users\Energiy\source\repos\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.vbproj.GenerateResource.cache
+C:\Users\Energiy\source\repos\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.vbproj.CoreCompileInputs.cache
+C:\Users\Energiy\source\repos\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.exe.config
+C:\Users\Energiy\source\repos\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.exe
+C:\Users\Energiy\source\repos\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.pdb
+C:\Users\Energiy\source\repos\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.xml
+C:\Users\Energiy\source\repos\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.exe
+C:\Users\Energiy\source\repos\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.xml
+C:\Users\Energiy\source\repos\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.pdb
+C:\Users\Energiy\source\repos\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.prozor.resources
+C:\Users\Energiy\source\repos\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.dodajStudenta.resources
+G:\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.exe.config
+G:\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.exe
+G:\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.pdb
+G:\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.xml
+G:\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.vbprojAssemblyReference.cache
+G:\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.azuriraj.resources
+G:\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.pregledajStudente.resources
+G:\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.dodajStudenta.resources
+G:\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.Form1.resources
+G:\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.Resources.resources
+G:\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.prozor.resources
+G:\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.vbproj.GenerateResource.cache
+G:\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.vbproj.CoreCompileInputs.cache
+G:\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.exe
+G:\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.xml
+G:\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.pdb
+G:\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.obrisiStudenta.resources
+G:\projekatFakultet\projekatFakultet\bin\Debug\studentiApeiron.mdf
+G:\projekatFakultet\projekatFakultet\bin\Debug\studentiApeiron_log.ldf
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.vbprojAssemblyReference.cache
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.azuriraj.resources
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.obrisiStudenta.resources
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.pregledajStudente.resources
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.dodajStudenta.resources
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.Form1.resources
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.Resources.resources
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.prozor.resources
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.vbproj.GenerateResource.cache
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.vbproj.CoreCompileInputs.cache
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.exe
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.xml
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.pdb
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\bin\Debug\apeironStudenti.mdf
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\bin\Debug\apeironStudenti_log.ldf
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.exe.config
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.exe
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.pdb
+C:\Users\OpstinaBrod\Desktop\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.xml
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\bin\Debug\apeironStudenti.mdf
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\bin\Debug\apeironStudenti_log.ldf
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.exe.config
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.exe
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.pdb
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.xml
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.vbprojAssemblyReference.cache
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.azuriraj.resources
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.obrisiStudenta.resources
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.dodajStudenta.resources
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.Form1.resources
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.Resources.resources
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.pregledajStudente.resources
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.prozor.resources
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.vbproj.GenerateResource.cache
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.vbproj.CoreCompileInputs.cache
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.exe
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.xml
+C:\Users\OpstinaBrod\Desktop\Igor Gojkovic\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.pdb
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.exe.config
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.exe
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.pdb
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\bin\Debug\projekatFakultet.xml
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.vbprojAssemblyReference.cache
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.azuriraj.resources
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.obrisiStudenta.resources
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.dodajStudenta.resources
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.Form1.resources
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.Resources.resources
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.pregledajStudente.resources
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.prozor.resources
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.vbproj.GenerateResource.cache
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.exe
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.xml
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\obj\Debug\projekatFakultet.pdb
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\bin\Debug\bazaProjekat.mdf
+C:\Users\Dell\Downloads\projekatFakultet\projekatFakultet\projekatFakultet\bin\Debug\bazaProjekat_log.ldf
